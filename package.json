@@ -1,25 +1,25 @@
 {
   "name": "slazzer",
-  "version": "1.0.0",
-  "description": "Automatically remove background from image - slazzer.com",
+  "version": "1.0.1",
+  "description": "A simple npm package using the slazzer REST API",
   "main": "index.js",
   "scripts": {
     "test": "slazzer"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/slazzercom/Slazzer-npm"
+    "url": "git+https://github.com/slazzercom/slazzer-npm.git"
   },
   "dependencies": {
     "axios": "^0.21.0",
     "form-data": "^3.0.0",
     "node-fetch": "^2.6.1"
   },
-  "keywords": [],
-  "author": "slazzer",
-  "license": "ISC",
+  "keywords": ["Remove Background", "Remove Image Background", "Slazzer", "Auto Background Removal", "Background Removal"],
+  "author": "Jake Miles",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/slazzercom/Slazzer-npm/issues"
+    "url": "https://github.com/slazzercom/slazzer-npm/issues"
   },
-  "homepage": "https://github.com/slazzercom/Slazzer-npm/blob/main/README.md"
+  "homepage": "https://github.com/slazzercom/slazzer-npm/blob/main/README.md"
 }
