@@ -1,0 +1,25 @@
+{
+  "name": "slazzer",
+  "version": "1.0.0",
+  "description": "Automatically remove background from image - slazzer.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "slazzer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slazzercom/Slazzer-npm-package"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [],
+  "author": "slazzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slazzercom/Slazzer-npm-package/issues"
+  },
+  "homepage": "https://github.com/slazzercom/Slazzer-npm-package/blob/main/README.md"
+}
